@@ -18,7 +18,7 @@ function sendVerifMail(link, name, email) {
         service: 'gmail',
         auth: {
             user: 'aallali.online@gmail.com',
-            pass: 'Blackflour99+'
+            pass: '**********'
         }
     });
 
@@ -47,7 +47,7 @@ function sendRestMail(email, token, username) {
         service: 'gmail',
         auth: {
             user: 'aallali.online@gmail.com',
-            pass: 'Blackflour99+'
+            pass: '**********'
         }
     });
 
