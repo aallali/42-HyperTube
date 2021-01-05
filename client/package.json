@@ -17,7 +17,7 @@
     "@mdi/js": "^4.8.95",
     "@types/socket.io-client": "^1.4.32",
     "animate.css": "^3.7.2",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.4.0",
