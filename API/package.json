@@ -27,7 +27,7 @@
         "http": "0.0.0",
         "http-errors": "~1.6.3",
         "jade": "~1.11.0",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mmmagic": "^0.5.3",
         "mongodb": "^3.5.4",
         "mongoose": "^5.9.2",
